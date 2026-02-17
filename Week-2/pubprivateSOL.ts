@@ -21,3 +21,13 @@ async function main() {
 }
 
 main();
+
+
+// steps to run 
+/* 
+ npm init -y
+ npx ts-node pubprivateSOL.ts
+ npm install --save-dev tsx
+ npx tsx .\Week-2\pubprivateSOL.ts
+
+ */
