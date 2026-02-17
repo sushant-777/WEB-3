@@ -1,5 +1,30 @@
 {
   "dependencies": {
+    "@noble/ed25519": "^3.0.0",
     "bs58": "^6.0.0"
-  }
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "name": "web-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushant-777/WEB-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sushant-777/WEB-3/issues"
+  },
+  "homepage": "https://github.com/sushant-777/WEB-3#readme"
 }
